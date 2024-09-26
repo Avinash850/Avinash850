@@ -49,6 +49,7 @@
 <br/>
 <div align="center">
  <div align="center"><h3 align="center">Frontend</h3>
+<img src="https://img.shields.io/badge/Angular-%E03E31.svg?style=for-the-badge&logo=angular&logoColor=white" align="center" alt="angular" />
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
 <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
 <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
@@ -56,6 +57,8 @@
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
 <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' align='center' alt='typescript' />
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="center" alt="material-ui"/>
+
+
 <br/>
 <br/>
   <img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white' align='center' alt='next' />
@@ -92,30 +95,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<h2 align="center">📊 My Github Stats</h2>
-   <br/>
-   <p  align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash850&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"
-            alt="git"
-          />
-    </p>
-  <br/>
-   <p align="center">
-    <a href="https://github.com/Avinash850/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="masum streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JyotiranjanGhibila&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
-    </a>
-</p>
-
-  <br/>
-  <br/>
-     <p align="center">                                                                                                 
-    <a href="https://github.com/Avinash850/github-readme-stats"><img alt="masum Github Stats" src="https://github-readme-stats.vercel.app/api?username=JyotiranjanGhibila&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="jrg" /></a>
-    </p>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<br/>
 
 ### ✍️ Random Dev Quote
 
