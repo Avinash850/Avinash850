@@ -21,10 +21,10 @@
 
 🔭 I’m currently Looking jobs Role for Front-End | Backend | MERN .<br>
 <br>🌱 I have hands on experience on MERN Stack.<br>
-<br>📄 Check out my [Resume](https://drive.google.com/file/d/1KuoZGtc5K2Y97RRt4h29uS55W2CkfNXi/view?usp=drivesdk)<br>
-<br>💻 Know more about me [Portfilio](https://jyotiranjanghibila.github.io/)<br>
-<br>💻 All of my projects are available at My [Github Repositories](https://github.com/JyotiranjanGhibila?tab=repositories)<br>
-<br>💬 Ask me about HTML, CSS, JavaScript, React, Node.js ,MongoDB , Express.js <br>
+<br>📄 Check out my [Resume](https://drive.google.com/file/d/1c49L6iX9FyeZ9p81MnJxLSJfHba-Pyud/view?usp=drive_link)<br>
+<br>💻 Know more about me [Portfilio](https://.github.io/)<br>
+<br>💻 All of my projects are available at My [Github Repositories](https://github.com/Avinash850?tab=repositories)<br>
+<br>💬 Ask me about HTML, CSS, JavaScript,Angular, React, Node.js ,MongoDB , Express.js, Mysql, Cosmos DB, Python <br>
 <br>📫 How to reach me avinashkumarnke12@gmail.com<br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
