@@ -2,7 +2,7 @@
 <h1 align="center">
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-    I'm Jyoti Ranjan Ghibila
+    I'm Avinash kumar
     <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
 </h1>
 <!-- Name Section End -->
@@ -25,16 +25,16 @@
 <br>💻 Know more about me [Portfilio](https://jyotiranjanghibila.github.io/)<br>
 <br>💻 All of my projects are available at My [Github Repositories](https://github.com/JyotiranjanGhibila?tab=repositories)<br>
 <br>💬 Ask me about HTML, CSS, JavaScript, React, Node.js ,MongoDB , Express.js <br>
-<br>📫 How to reach me ghibilamohan@gmail.com<br>
+<br>📫 How to reach me avinashkumarnke12@gmail.com<br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <h2 align="center">📱 Connect with me</h2>
 <br />
 <div align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/jyoti-ranjan-ghibila-449105206/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a target="_blank" href="mailto: ghibilamohan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a target="_blank" href="https://github.com/JyotiranjanGhibila"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/avinash-kumar-77585912b/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a target="_blank" href="mailto: avinashkumarnke12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a target="_blank" href="https://github.com/Avinash850"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 <br />
 
@@ -95,13 +95,13 @@
 <h2 align="center">📊 My Github Stats</h2>
    <br/>
    <p  align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JyotiranjanGhibila&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash850&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"
             alt="git"
           />
     </p>
   <br/>
    <p align="center">
-    <a href="https://github.com/JyotiranjanGhibila/github-readme-streak-stats">
+    <a href="https://github.com/Avinash850/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="masum streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JyotiranjanGhibila&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>
@@ -109,7 +109,7 @@
   <br/>
   <br/>
      <p align="center">                                                                                                 
-    <a href="https://github.com/JyotiranjanGhibila/github-readme-stats"><img alt="masum Github Stats" src="https://github-readme-stats.vercel.app/api?username=JyotiranjanGhibila&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="jrg" /></a>
+    <a href="https://github.com/Avinash850/github-readme-stats"><img alt="masum Github Stats" src="https://github-readme-stats.vercel.app/api?username=JyotiranjanGhibila&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="jrg" /></a>
     </p>
 
 <br/>
